@@ -19,5 +19,5 @@ using an interactive Tableau dashboard.
 
 ## Live Dashboard
 🔗 Tableau Public Link:
-([paste your Tableau Public link here](https://public.tableau.com/shared/96HD4WS4C?:display_count=n&:origin=viz_share_link))
+([(https://lnkd.in/gaHq7kBg)](https://public.tableau.com/shared/96HD4WS4C?:display_count=n&:origin=viz_share_link))
 
